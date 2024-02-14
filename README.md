@@ -2,7 +2,7 @@
 **Problem Statement**
 AtliQ Grands, a prominent player in the hospitality industry, faced a decline in market share and revenue due to competitor strategies and suboptimal management decisions. To counter this, the Managing Director initiated a strategic move—incorporating "Business and Data Intelligence" to regain market dominance. The lack of an in-house data analytics team led to the decision to enlist a 3rd party service provider to extract insights from historical data.
 
-My Project Dashboard Link: https://app.powerbi.com/groups/me/list?experience=power-bi
+My Project Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNjY2MjQzZjctYjJhNi00ZDVmLTliMTItNWExYjQ3YWM1MDlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ##Key Metrics##
 Revenue -- Total revenue realized.
